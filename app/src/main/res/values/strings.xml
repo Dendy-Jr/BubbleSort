@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BubbleSort</string>
+    <string name="sort_list">Sort List</string>
+    <string name="generate">Generate</string>
+</resources>
